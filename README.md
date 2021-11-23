@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 	
-![Gary's github stats](https://github-readme-stats.vercel.app/api?username=Gary-Deeplearning&show_icons=true&hide_border=true)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/christofhenkel/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrewmvd/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/cdeotte/notebook/light)

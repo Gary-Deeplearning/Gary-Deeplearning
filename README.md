@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 	
 ![Gary's github stats](https://github-readme-stats.vercel.app/api?username=Gary-Deeplearning&show_icons=true&hide_border=true)
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/christofhenkel/garybios/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/garybios/competition/light)

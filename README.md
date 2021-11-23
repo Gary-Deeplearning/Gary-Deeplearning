@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Gary-Deeplearning/Gary-Deeplearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/garybios/competition)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/christofhenkel             /competition)
